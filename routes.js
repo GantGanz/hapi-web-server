@@ -40,6 +40,7 @@ const routes = [{
             if (lang === 'id') {
                 return `Hai, ${name}!`;
             }
+
             return `Hello, ${name}!`;
         },
     },
